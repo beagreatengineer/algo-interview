@@ -61,8 +61,8 @@ Problem solving patterns (шаблоны решения задач):
 
 #### Основы
 Books:
-- [(Book, Python, FREE) Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds/index.html)
-- [Книга «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
 
 Сложность алгоритмов:
 - [(FREE) Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
