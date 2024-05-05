@@ -43,7 +43,7 @@
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
 
-Problem solving patterns
+Problem solving patterns (шаблоны решения задач):
 - [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions)
 - [A pattern-based approach for learning technical interview questions](https://seanprashad.com/leetcode-patterns/)
 - [Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm/tree/english)
