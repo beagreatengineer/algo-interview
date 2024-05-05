@@ -69,6 +69,8 @@ Books:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
 - [(FREE) Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 ](https://github.com/TheAlgorithms)
+
+ Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 ### Продвинутый уровень теории (для олимпиад и FAANG интервью)
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или http://e-maxx.ru/algo/
