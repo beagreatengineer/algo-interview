@@ -29,9 +29,9 @@
 **Задача кандидата**: максимизировать свои шансы по каждому из пунктов. Рассмотрим подробнее как это можно сделать.
 
 ## Фреймворк алгоритмического интервью
-<img src="[https://raw.githubusercontent.com/abstractart/how-to-develop-perfect-crud/main/12-Factor-app-revised.jpg](https://raw.githubusercontent.com/beagreatengineer/learn-algorithms/main/interview.jpg)">
-## Количество решенных задач (Практика)
+<img src="https://raw.githubusercontent.com/beagreatengineer/learn-algorithms/main/interview.jpg">
 
+## Количество решенных задач (Практика)
 Не будем переизобретать велоссипед. Берем любой сайт с задачками и решаем.
 Например:
 - LeetCode
