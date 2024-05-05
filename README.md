@@ -39,11 +39,13 @@
 
 С ростом опыта полезно **ставить таймер**, чтобы искусственно воспроизводить атмосферу настоящего интервью.
 
-Полезные ссылки (для уверенных в себе, начинающих скорее отпугнут):
+Необходимый минимум задач в "ширину": 
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+Problem solving patterns
 - [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions)
 - [A pattern-based approach for learning technical interview questions](https://seanprashad.com/leetcode-patterns/)
+- [Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm/tree/english)
 ## Широта и глубина знаний по алгоритмам и структурам данных (Теория)
 
 Однажды наступит такой момент когда задачи на LeetCode перестанут решаться, потому что не получается придумать ничего кроме наивного/брутфорс решения. Значит пришло время искать идеи где-то кроме своей головы. Например в разделе Discuss на LeetCode :) 
