@@ -65,7 +65,7 @@ Books:
 
 Гайды
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
-- [Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+- [(FREE) Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
 ](https://github.com/TheAlgorithms)
 ### Продвинутый уровень теории (для олимпиад и FAANG интервью)
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
