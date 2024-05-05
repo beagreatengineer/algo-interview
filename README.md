@@ -29,6 +29,7 @@
 **Задача кандидата**: максимизировать свои шансы по каждому из пунктов. Рассмотрим подробнее как это можно сделать.
 
 ## Фреймворк алгоритмического интервью
+<img src="[https://raw.githubusercontent.com/abstractart/how-to-develop-perfect-crud/main/12-Factor-app-revised.jpg](https://raw.githubusercontent.com/beagreatengineer/learn-algorithms/main/interview.jpg)">
 ## Количество решенных задач (Практика)
 
 Не будем переизобретать велоссипед. Берем любой сайт с задачками и решаем.
@@ -76,7 +77,6 @@ Books:
 - [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или http://e-maxx.ru/algo/
 - [(FREE) Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) или [Антти Лааксонен: Олимпиадное программирование](https://www.labirint.ru/books/776224/)
 
-## WIP: Умение вести структурированный диалог с интервьюером
 ## Аналитические способности / интуиция
 Это вещь которую нельзя описать. С течением времени и практики мозг и смекалка начинают работать лучше и лучше. Чем больше вкладывается времени и сил тем больше отдача. Приходит понимание как подходить к решению большинства незнакомых задач, по факту вырабатывается собственный фреймворк по их решению.
 
