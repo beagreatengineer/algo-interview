@@ -24,3 +24,23 @@
 - Широта и глубина знаний по алгоритмам и структурам данных (Теория)
 - Аналитические способности / интуиция (следствие предыдущих 2х пунктов)
 - Везение (попадется ли вам задача которую вы уже видели)
+
+**Задача кандидата**: максимизировать свои шансы по каждому из пунктов. Рассмотрим подробнее как это можно сделать.
+
+## Количество решенных задач (Практика)
+
+Не будем переизобретать велоссипед. Берем любой сайт с задачками и решаем.
+Например:
+- LeetCode
+- Codewars
+- Codeforces
+- CodeWars
+Для LeetCode советую использовать таблицу по ссылке чтобы плавно идти от простого к сложному без резких перепадов. 
+
+С ростом опыта полезно **ставить таймер**, чтобы искусственно воспроизводить атмосферу настоящего интервью.
+
+Полезные ссылки (для уверенных в себе, начинающих скорее отпугнут):
+- [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+- [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions)
+- [A pattern-based approach for learning technical interview questions](https://seanprashad.com/leetcode-patterns/)
