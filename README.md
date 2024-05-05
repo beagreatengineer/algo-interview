@@ -78,7 +78,7 @@
  Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 ### Продвинутый уровень (для олимпиад и FAANG)
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
-- [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или http://e-maxx.ru/algo/
+- [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или [(FREE) http://e-maxx.ru/algo/](http://e-maxx.ru/algo/)
 - [(FREE) Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) или [Антти Лааксонен: Олимпиадное программирование](https://www.labirint.ru/books/776224/)
 
 # Проходим пробные интервью
