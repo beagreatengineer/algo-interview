@@ -62,12 +62,12 @@ Books:
 - [(FREE) Хорошие статья с примерами про оценку сложности алгоритмов](https://habr.com/ru/articles/782608/)
 Гайды
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
-
-### Продвинутый уровень теории (для FAANG)
+- [Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+](https://github.com/TheAlgorithms)
+### Продвинутый уровень теории (для олимпиад и FAANG интервью)
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или http://e-maxx.ru/algo/
 - [(FREE) Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) или [Антти Лааксонен: Олимпиадное программирование](https://www.labirint.ru/books/776224/)
-
 ## Аналитические способности / интуиция
 Это вещь которую нельзя описать. С течением времени и практики мозг и смекалка начинают работать лучше и лучше. Чем больше вкладывается времени и сил тем больше отдача. Приходит понимание как подходить к решению большинства незнакомых задач, по факту вырабатывается собственный фреймворк по их решению.
 
