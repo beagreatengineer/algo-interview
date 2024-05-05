@@ -51,6 +51,10 @@
 Но разобраться проблематично без предварительного изучения того как устроена структура данных или алгоритм. Тут то нам и придут на помощь книги/курсы/справочники по алгоритмам.
 
 Полезные ресурсы которые помогут стартовать в этой непростой теме:
+- [(Book, Python, Free) Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
+- [The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
+- [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 ## Аналитические способности / интуиция
 
 Это вещь которую нельзя описать. С течением времени и практики мозг и смекалка начинают работать лучше и лучше. Чем больше вкладывается времени и сил тем больше отдача. Приходит понимание как подходить к решению большинства незнакомых задач, по факту вырабатывается собственный фреймворк по их решению.
