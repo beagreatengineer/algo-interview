@@ -57,9 +57,11 @@ Problem solving patterns (шаблоны решения задач):
 Books:
 - [(Book, Python, FREE) Problem Solving with Algorithms and Data Structures](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [Книга «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
+
 Сложность алгоритмов:
 - [(FREE) Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
 - [(FREE) Хорошие статья с примерами про оценку сложности алгоритмов](https://habr.com/ru/articles/782608/)
+
 Гайды
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
 - [Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
