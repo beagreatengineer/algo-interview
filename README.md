@@ -59,18 +59,17 @@ Problem solving patterns (шаблоны решения задач):
 Но разобраться проблематично без предварительного изучения того как устроена структура данных или алгоритм. Тут то нам и придут на помощь книги/курсы/справочники по алгоритмам.
 
 #### Основы
-Books:
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
-- [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
-
 Сложность алгоритмов:
 - [(FREE) Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
 - [(FREE) Хорошие статья с примерами про оценку сложности алгоритмов](https://habr.com/ru/articles/782608/)
 
-Гайды
+Книги:
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
+
+Гайды и репозитории:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
-- [(FREE) Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
-](https://github.com/TheAlgorithms)
+- [(FREE) Реализация алгоритмов и структур данных на популярных языках программирования](https://github.com/TheAlgorithms)
 
  Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 #### Продвинутый уровень теории (для олимпиад и FAANG интервью)
