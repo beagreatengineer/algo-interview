@@ -68,16 +68,21 @@
 - [(FREE) Хорошие статья с примерами про оценку сложности алгоритмов](https://habr.com/ru/articles/782608/)
 
 Книги:
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
+- [(FREE) Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
 
 Гайды и репозитории:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
 - [(FREE) Реализация алгоритмов и структур данных на популярных языках программирования](https://github.com/TheAlgorithms)
 Курсы:
-- [Основы алгоритмов от Яндекс.Образования](https://education.yandex.ru/handbook/algorithms)
+- [(FREE) Основы алгоритмов от Яндекс.Образования](https://education.yandex.ru/handbook/algorithms)
  Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 ### Продвинутый уровень (для олимпиад и FAANG)
+Бесплатные курсы:
+- [(FREE) Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
+- [(FREE) Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+-  (FREE) Algorithms by Robert Sedgewick [Part 1](https://www.coursera.org/learn/algorithms-part1) & [Part 2](https://www.coursera.org/learn/algorithms-part2)
+- [(FREE) Analysis of Algorithms by Robert Sedgewick](https://www.coursera.org/learn/analysis-of-algorithms)
 Гайды и справочники:
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или [(FREE) http://e-maxx.ru/algo/](http://e-maxx.ru/algo/)
