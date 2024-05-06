@@ -99,7 +99,7 @@
 Если у вас есть друг который работает в BigTech вы можете попросить его провести пробное интервью для вас. Или же вы можете воспользоваться услугами ментора.
 Либо воспользоваться [Pramp - Practice Mock Interviews & Coding Problems - Land Top Jobs](https://www.pramp.com/#/).
 # Дополнительные ссылки вдохновившие меня на этот гайд
-- [(FREE) «Подготовка к алгоритмическому собеседованию» от Яндекс.Практикум - курс который отлично дополняет то что я написал в заметке :)](https://practicum.yandex.ru/algorithms-interview/)
+- [(FREE) «Подготовка к алгоритмическому собеседованию» от Яндекс.Практикум](https://practicum.yandex.ru/algorithms-interview/)
 - [(FREE) Хочу работать в Google: Read Me First! - Методичка по подготовке к интервью в Google от сотрудника Google :)](InterviewPreparationGuide.pdf)
 - [(FREE) Data Fest² Minsk 2018: Владимир Игловиков, Как быстро надо бежать, чтобы не отстать: ML edition](https://www.youtube.com/watch?v=v6Wv01GJQnI)
 - [(FREE) Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/)
