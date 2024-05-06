@@ -74,6 +74,7 @@
 Гайды и репозитории:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
 - [(FREE) Реализация алгоритмов и структур данных на популярных языках программирования](https://github.com/TheAlgorithms)
+
 Курсы:
 - [(FREE) Основы алгоритмов от Яндекс.Образования](https://education.yandex.ru/handbook/algorithms)
 
