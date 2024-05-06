@@ -77,10 +77,13 @@
 
  Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 ### Продвинутый уровень (для олимпиад и FAANG)
+Гайды и справочники:
 - [(FREE) A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [(FREE) Algorithms for Competitive Programming](https://cp-algorithms.com/) или [(FREE) http://e-maxx.ru/algo/](http://e-maxx.ru/algo/)
-- [(FREE) Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) или [Антти Лааксонен: Олимпиадное программирование](https://www.labirint.ru/books/776224/)
 
+Книги:
+- [(FREE) С. Дасгупта, Х. Пападимитриу, У. Вазирани. Алгоритмы](https://alexanderskulikov.github.io/files/algorithms_href.pdf)
+- [(FREE) Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) или [Антти Лааксонен: Олимпиадное программирование](https://www.labirint.ru/books/776224/)
 # Пробное интервью
 
 По своему опыту могу сказать что собеседования это стресс для организма. И часто он мешает показать себя на 100%. Поэтому для достижения успеха важно научиться преодолевать стресс и держать его под контролем. В этом могут помочь mock interview - пробные собеседования ничем не отличающиеся от настоящих с той лишь разницей что ошибка ничего не стоит для вас :)
