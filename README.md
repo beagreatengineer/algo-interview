@@ -74,7 +74,8 @@
 Гайды и репозитории:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
 - [(FREE) Реализация алгоритмов и структур данных на популярных языках программирования](https://github.com/TheAlgorithms)
-
+Курсы:
+- [Основы алгоритмов от Яндекс.Образования](https://education.yandex.ru/handbook/algorithms)
  Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
 ### Продвинутый уровень (для олимпиад и FAANG)
 Гайды и справочники:
