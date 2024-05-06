@@ -102,4 +102,5 @@
 - [(FREE) «Подготовка к алгоритмическому собеседованию» от Яндекс.Практикум - курс который отлично дополняет то что я написал в заметке :)](https://practicum.yandex.ru/algorithms-interview/)
 - [(FREE) Хочу работать в Google: Read Me First! - Методичка по подготовке к интервью в Google от сотрудника Google :)](InterviewPreparationGuide.pdf)
 - [(FREE) Data Fest² Minsk 2018: Владимир Игловиков, Как быстро надо бежать, чтобы не отстать: ML edition](https://www.youtube.com/watch?v=v6Wv01GJQnI)
+- [(FREE) Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/)
 - Книга Cracking the Coding Interview (переведена на русский как "Карьера программиста"
