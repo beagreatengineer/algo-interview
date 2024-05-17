@@ -78,10 +78,10 @@
 ## Практикуемся в решении задач
 Не будем изобретать велосипед. Берем любой сайт с задачками и решаем.
 Например:
-- LeetCode
-- Codeforces
-- CodeWars
-- HackerRank
+- [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [CodeWars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
 
 Если вы начинающий и только погружаетесь в алгоритмы и задачи и используете LeetCode настоятельно рекомендую использовать [таблицу](https://docs.google.com/spreadsheets/d/1FW-_sPhLO-NJRW_qzRYC6pT_n0jxkFj5KS1-4-ZbagI/edit?usp=sharing), для выбора задачек. Она позволит плавно идти от простого к сложному без резких перепадов. 
 
