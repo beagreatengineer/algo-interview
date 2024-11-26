@@ -88,6 +88,7 @@
 
 После того как вы освоились на одной из платформ нужно браться за самые популярные алгоритмические задачи:
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Grind 75 questions](https://www.techinterviewhandbook.org/grind75/) (Обновленный список с пункта 1)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
 
 
