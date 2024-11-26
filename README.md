@@ -146,7 +146,7 @@
 - Попросить друга работающего в BigTech.
 - Воспользоваться услугами ментора.
 - Найти человека с релевантным опытом в тематическом сообществе.
-- Воспользоваться [Pramp - Practice Mock Interviews & Coding Problems - Land Top Jobs](https://www.pramp.com/#/).
+- Воспользоваться [Pramp - Practice Mock Interviews & Coding Problems - Land Top Jobs](https://www.pramp.com/#/) либо [Техническое mock-собеседование](https://it-interview.io/mock-interview).
 
 # Дополнительные ссылки вдохновившие меня на этот гайд
 - [(FREE) «Подготовка к алгоритмическому собеседованию» от Яндекс.Практикум](https://practicum.yandex.ru/algorithms-interview/)
