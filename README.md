@@ -88,6 +88,7 @@
 
 После того как вы освоились на одной из платформ нужно браться за самые популярные алгоритмические задачи:
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Grind 75 questions](https://www.techinterviewhandbook.org/grind75/) (Обновленный список с пункта 1)
 - [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
 
 
@@ -108,7 +109,7 @@
 
 Книги:
 - [(FREE) Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
-- [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/ru/companies/piter/articles/323310/)
+- [«Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://habr.com/en/companies/piter/articles/847682/)
 
 Гайды и репозитории:
 - [(FREE) The Definitive Guide to Data Structures for Coding Interviews](https://www.byte-by-byte.com/data-structures/)
@@ -118,6 +119,8 @@
 - [(FREE) Основы алгоритмов от Яндекс.Образования](https://education.yandex.ru/handbook/algorithms)
 
 Отдельно выделю сервис [algorithm-visualizer.org](https://algorithm-visualizer.org/) - с его помощью можно визуализировать, работу того или иного алгоритма. Поддерживаются примеры на  C++ / JS / Java. Попробуйте поискать задачу с которой не смогли разобраться на этом сайте :)
+
+Комплексный roadmap, объяснение теории и список задач  и решениями на java от бывшего разработчика Google [interviews.school](https://interviews.school/)
 
 ### Продвинутый уровень (для олимпиад и FAANG)
 Бесплатные курсы:
@@ -143,7 +146,7 @@
 - Попросить друга работающего в BigTech.
 - Воспользоваться услугами ментора.
 - Найти человека с релевантным опытом в тематическом сообществе.
-- Воспользоваться [Pramp - Practice Mock Interviews & Coding Problems - Land Top Jobs](https://www.pramp.com/#/).
+- Воспользоваться [Pramp - Practice Mock Interviews & Coding Problems - Land Top Jobs](https://www.pramp.com/#/) либо [Техническое mock-собеседование](https://it-interview.io/mock-interview).
 
 # Дополнительные ссылки вдохновившие меня на этот гайд
 - [(FREE) «Подготовка к алгоритмическому собеседованию» от Яндекс.Практикум](https://practicum.yandex.ru/algorithms-interview/)
